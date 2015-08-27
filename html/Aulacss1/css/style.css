@@ -1,0 +1,10 @@
+﻿body{background-color:yellow;
+margin:auto/*margens*/;
+width:800px /*largura*/
+}
+h1{color:green /*Cor texto*/;
+text-align:center /*Alinhar o texto*/;
+}
+p{color:blue /*cor do texto parágrafo*/;
+border:3px solid #000 /*Borda*/;
+}

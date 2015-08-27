@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+
+<html>
+     <head>
+
+	<title>Aula 28</title>
+	
+     </head>
+
+	<body>
+
+	<article>
+
+	<h1>Article>
+
+	O elemento article destina-se a marcar um conteúdo que se constitua em um componente 
+	autossuficiente em uma página, aplicação ou site e que possa ser distribuido ou reusado de forma independente (isolada),
+	como por exemplo via sindicalização. Tal conteúdo pode ser um post em um fórum, um artigo de uma revista ou jornal, uma matéria em um blog,
+ 	um comentário de um usuário, um widget ou gadget interativo ou qualquer outro item independente de conteúdo.
+
+	</article>
+
+
+	</body>
+
+<html>
